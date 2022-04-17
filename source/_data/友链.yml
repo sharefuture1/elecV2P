@@ -1,0 +1,8 @@
+- name: 博客友链
+  url: https://young1.top/link/
+  img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
+  description: 这里都是我博客类型的友链
+- name: DAC导航
+  url: https://nwuzmed.ga/
+  img: https://nwuzmed.ga/images/avatar.png
+  description: 专属于在校大学生的导航网站

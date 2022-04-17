@@ -1,0 +1,20 @@
+- name: 音乐搜索器
+  url: http://www.musictool.top
+  img: http://www.musictool.top/static/img/apple-touch-icon.png
+  description: 免费音乐下载
+- name: 5sing 中国原创音乐基地
+  url: http://5sing.kugou.com/index.html
+  img: http://5sing.kugou.com/favicon.ico
+  description: 免费伴奏、翻唱、音乐下载
+- name: 讯飞配音
+  url: http://peiyin.xunfei.cn/
+  img: http://peiyin.xunfei.cn/themes/images/bigpeiyinge_favicon.ico
+  description: 海量样音模板，配音场景覆盖，优秀配音团队
+- name: 完美韵脚
+  url: http://www.wanmeiyunjiao.com/
+  img: http://www.wanmeiyunjiao.com/static/tab_logo.ico
+  description: 一个帮助词作人、诗人和文案创作者创作的押韵搜索网站
+- name: 押韵助手
+  url: https://yayun.la/
+  img: https://yayun.la/favicon.ico
+  description: 文案/金句/诗词/Rap歌词创作者的必备神器

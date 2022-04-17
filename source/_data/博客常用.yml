@@ -1,0 +1,56 @@
+- name: 一行的Blog 🔥
+  url: https://young1.top/
+  img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
+  description: 我的个人博客，欢迎访问~
+- name: 本站搭建教程 🔥
+  url: https://young1.top/posts/61c6c2e8/
+  img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
+  description: Hexo版WebStack导航网站搭建教程，欢迎留言~
+- name: 一行的文档
+  url: https://doc.young1.top/
+  img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
+  description: 我的文档网站
+- name: 一行的八音盒
+  url: https://mb.young1.top/
+  img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
+  description: 基于Vue框架使用网易云接口的音乐网站
+- name: 一行的画廊
+  url: https://gal.young1.top/
+  img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
+  description: 3D相册网站
+- name: 阿里云
+  url: https://account.aliyun.com/login/qr_login.html
+  img: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
+  description: 本站域名管理
+- name: Vercel - Dashboard
+  url: https://vercel.com/hassanblog
+  img: https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png
+  description: 本站代码部署
+- name: 腾讯云 - 控制台
+  url: https://console.cloud.tencent.com/
+  img: https://cloud.tencent.com/favicon.ico
+  description: 目前用于Twikoo评论系统后台、每日签到
+- name: LeanCloud
+  url: https://console.leancloud.app/login
+  img: https://console.leancloud.app/favicon.ico
+  description: 本站友链朋友圈、哔哔后台
+- name: 百度搜索资源平台
+  url: https://ziyuan.baidu.com/linksubmit/index?site=http://young1.top/
+  img: https://ziyuan.baidu.com/favicon.ico
+  description: 本站收录平台
+- name: 百度统计
+  url: https://tongji.baidu.com/web/10000330339/overview/index?siteId=16324130
+  img: https://tongji.baidu.com/favicon.ico
+  description: 本站数据统计
+- name: 站长工具
+  url: http://tool.chinaz.com/
+  img: http://csstools.chinaz.com/favicon.ico
+  description: 站长工具是站长的必备工具，可以了解SEO数据变化等等
+- name: 网站测速 - Ping.cn
+  url: https://www.ping.cn/
+  img: https://www.ping.cn/favicon.ico
+  description: 免费提供网站速度测试
+- name: Cloudflare
+  url: https://dash.cloudflare.com/f2f657ef88142b794b30a3e5754d73e3
+  img: https://dash.cloudflare.com/favicon.ico
+  description: 帮助站点抵御大多数网络攻击，确保长期在线，提升性能、访问速度
