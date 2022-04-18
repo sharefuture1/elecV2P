@@ -1,14 +1,14 @@
 # Hexo版WebStack主题导航网站 -  由一行美化
 
-一款基于[WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io)的 Hexo 主题，由[一行](https://young1.top/)二创，主要**对外观进行了美化魔改**，本篇markdown文档微改于[HCLonely](https://github.com/HCLonely/hexo-theme-webstack/blob/master/README_CN.md)。若是喜欢我的美化二创，那就直接fork本项目的**source分支**即可，喜欢的话点个⭐支持一下！
+一款基于[WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io)的 Hexo 主题，由[一行](https://young1.cf/)二创，主要**对外观进行了美化魔改**，本篇markdown文档微改于[HCLonely](https://github.com/HCLonely/hexo-theme-webstack/blob/master/README_CN.md)。若是喜欢我的美化二创，那就直接fork本项目的**source分支**即可，喜欢的话点个⭐支持一下！
 
 **效果图**👇
 
-![screenshot](https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://nav.young1.top/)
+![screenshot](https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://nav.young1.cf/)
 
 ## 搭建
 
-如果还没有搭建成功，可以参考我之前写的👉[搭建教程](https://young1.top/posts/61c6c2e8/)。你现在看的这个文档主要是讲**搭建之后可以配置的参数**。
+如果还没有搭建成功，可以参考我之前写的👉[搭建教程](https://young1.cf/posts/61c6c2e8/)。你现在看的这个文档主要是讲**搭建之后可以配置的参数**。
 
 ## 本项目使用须知（我的小私心）：
 
@@ -19,8 +19,8 @@
   ```diff
   <% var now = new Date().getFullYear(); %>
         &copy; <%- setting.since === now ? setting.since : (setting.since + " - " + now) %>
-  -      | Designed by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a> | Beautified By <a href="young1.top"><strong><%- config.author %></strong></a> | Powered by <a href="https://hexo.io/" target="_blank"><strong>Hexo</strong></a> & <a href="https://github.com/HCLonely/hexo-theme-webstack/" target="_blank"><strong>hexo-theme-webstack</strong></a>
-  +      | Designed by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a> | Beautified By <a href="young1.top"><strong>一行</strong></a> Used By <你的昵称> | Powered by <a href="https://hexo.io/" target="_blank"><strong>Hexo</strong></a> & <a href="https://github.com/HCLonely/hexo-theme-webstack/" target="_blank"><strong>hexo-theme-webstack</strong></a>
+  -      | Designed by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a> | Beautified By <a href="young1.cf"><strong><%- config.author %></strong></a> | Powered by <a href="https://hexo.io/" target="_blank"><strong>Hexo</strong></a> & <a href="https://github.com/HCLonely/hexo-theme-webstack/" target="_blank"><strong>hexo-theme-webstack</strong></a>
+  +      | Designed by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a> | Beautified By <a href="young1.cf"><strong>一行</strong></a> Used By <你的昵称> | Powered by <a href="https://hexo.io/" target="_blank"><strong>Hexo</strong></a> & <a href="https://github.com/HCLonely/hexo-theme-webstack/" target="_blank"><strong>hexo-theme-webstack</strong></a>
   ```
 
 2. 建议更换所有我正在使用的图片素材，避免网页风格千篇一律，谢谢合作！
@@ -29,7 +29,7 @@
 
 ------
 
-> 以下都是_config.yml的配置参数。在美化上有什么问题的来[我的博客留言板](https://young1.top/comments/)问我，其它问题可以咨询Hexo版WebStack的作者[HCLonely](https://blog.hclonely.com/posts/3cd4fb34/)。
+> 以下都是_config.yml的配置参数。在美化上有什么问题的来[我的博客留言板](https://young1.cf/comments/)问我，其它问题可以咨询Hexo版WebStack的作者[HCLonely](https://blog.hclonely.com/posts/3cd4fb34/)。
 
 ## 本站config
 

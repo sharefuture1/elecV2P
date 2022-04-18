@@ -2,6 +2,18 @@
 
 
 ##快手
+
+- name: 视频解析
+  index: /young1/video
+  img: /images/logos/github.png
+  description: 全网视频，一网打尽
+  
+
+- name: 一键搜索
+  url: https://blog.csdn.net/qq_44633541/article/details/124065153
+  img: /images/logos/github.png
+  description: 全网内容，一键搜索  
+
 - name: 一键搜索
   url: https://blog.csdn.net/qq_44633541/article/details/124065153
   img: /images/logos/github.png
@@ -13,6 +25,10 @@
   description: 其他毛毛自用仓库  
 
 
+- name: child
+  index: /child
+  img: /images/logos/github.png
+  description: 全网视频，一网打尽
 
 
 

@@ -1,0 +1,23 @@
+## 资源分享
+
+
+
+- name: 实用软件
+  url: https://blog.csdn.net/qq_44633541/article/details/124048956
+  img: /images/logos/github.png
+  description: github
+
+
+
+
+- name: 书籍
+  url: https://blog.csdn.net/qq_44633541/article/details/124048956
+  img: /images/logos/github.png
+  description: 读万卷书，行万里路
+
+
+
+- name: 学习资料
+  url: https://github.com/
+  img: /images/logos/github.png
+  description: 各种学习资料
