@@ -1,3 +1,6 @@
+##设计制作类工具
+
+
 - name: Canva - 可画 🔥
   url: https://www.canva.cn/
   img: https://static.canva.cn/static/images/favicon.ico
@@ -22,3 +25,72 @@
   url: https://bilicover.magecorn.com/
   img: https://www.bilibili.com/favicon.ico
   description: 通过输入B站视频链接即可在线获取封面地址
+
+
+
+
+### 辅助创作
+- name: 在线PS
+  url: https://www.uupoop.com/
+  img: https://www.uupoop.com/favicon.ico
+  description:
+- name: 在线音频剪辑
+  url: https://www.weixinsyt.com/  
+  img: /images/logos/github.png 
+  description: https://www.weixinsyt.com/favicon.ico
+- name: 在线视频剪辑
+  url: https://www.kapwing.com/  
+  img: /images/logos/github.png 
+  description:
+- name: 免费logo在线制作
+  url: http://www.uugai.com/  
+  img: /images/logos/github.png 
+  description:
+- name: 艺术字体在线生成
+  url: https://www.qt86.com/  
+  img: /images/logos/github.png 
+  description:
+- name: 在线表格转换工具
+  url: https://tableconvert.com/  
+  img: /images/logos/github.png 
+  description:
+- name: 在线海报设计工具
+  url: https://www.designcap.com/  
+  img: /images/logos/github.png 
+  description:
+- name: 图片智能放大工具
+  url: https://bigjpg.com/  
+  img: /images/logos/github.png 
+  description:
+- name: 二维码美化器
+  url: https://mh.cli.im/  
+  img: /images/logos/github.png 
+  description:
+- name: 在线代码截图工具
+  url: https://carbon.now.sh/  
+  img: /images/logos/github.png 
+  description:
+- name: 在线抠图工具
+  url: https://www.remove.bg/zh  
+  img: /images/logos/github.png 
+  description:
+- name: ICO图标在线生成
+  url: http://www.fly63.com/php/ico/  
+  img: /images/logos/github.png 
+  description:
+- name: SVG转PNG工具
+  url: http://www.fly63.com/tool/svg2img/  
+  img: /images/logos/github.png 
+  description:
+- name: 视频转GIF工具
+  url: http://www.fly63.com/tool/giftxt/  
+  img: /images/logos/github.png 
+  description:
+- name: 二维码在线生成器
+  url: http://www.fly63.com/tool/ewm/  
+  img: /images/logos/github.png 
+  description: 二维码在线生成器
+- name: 二维码在线解码
+  url: http://www.fly63.com/php/decoder/  
+  img: /images/logos/github.png 
+  description: 二维码在线解码

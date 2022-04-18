@@ -1,15 +1,23 @@
-## 各种官方长裤
+## 资源分享
 
 
 
-- name: Github
+- name: 实用软件
   url: https://blog.csdn.net/qq_44633541/article/details/124048956
   img: /images/logos/github.png
   description: github
-- name: docker
+
+
+
+
+- name: 书籍
   url: https://blog.csdn.net/qq_44633541/article/details/124048956
   img: /images/logos/github.png
-  description: 通常发背单词的动态
-- name: github仓库
+  description: 读万卷书，行万里路
+
+
+
+- name: 学习资料
   url: https://github.com/
   img: /images/logos/github.png
+  description: 各种学习资料

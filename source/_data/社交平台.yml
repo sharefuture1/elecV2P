@@ -1,10 +1,14 @@
+##个人社交平台
+
+
+
 - name: Bilibili
   url: https://space.bilibili.com/383883097
-  img: https://i1.hdslb.com/bfs/face/58ddc41706723c1fca4498518695468b76d46460.jpg
+  img: /images/logos/github.png
   description: 什锦区UP主，各类视频都有涉及
 - name: 新浪微博
   url: https://weibo.com/hassan89
-  img: https://tvax4.sinaimg.cn/crop.0.0.512.512.180/007aVBg1ly8gz2udcskoyj30e80e8my0.jpg
+  img: /images/logos/github.png
   description: 通常发背单词的动态
 - name: QQ音乐
   url: https://y.qq.com/n/yqq/playlist/7934226388.html#stat=y_new.profile.create_playlist.click&dirid=1
