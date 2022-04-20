@@ -4,7 +4,7 @@
 ##快手
 
 - name: 视频解析
-  index: /young1/video
+  url: https://video.young1.cf
   img: /images/logos/github.png
   description: 全网视频，一网打尽
   
@@ -25,8 +25,8 @@
   description: 其他毛毛自用仓库  
 
 
-- name: child
-  index: /child
+- name: 音乐
+  url: https://music.young1.cf  
   img: /images/logos/github.png
   description: 全网视频，一网打尽
 

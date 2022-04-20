@@ -13,3 +13,27 @@
 - name: github仓库
   url: https://github.com/
   img: /images/logos/github.png
+- name: 百度网盘批量转存工具
+  url: https://github.com/hxz393/BaiduPanFilesTransfers
+  img: /images/logos/github.png
+  description: 百度网盘批量转存工具
+
+
+  
+- name: docker
+  url: https://blog.csdn.net/qq_44633541/article/details/124048956
+  img: /images/logos/github.png
+  description: 通常发背单词的动态
+- name: docker
+  url: https://blog.csdn.net/qq_44633541/article/details/124048956
+  img: /images/logos/github.png
+  description: 通常发背单词的动态
+- name: docker
+  url: https://blog.csdn.net/qq_44633541/article/details/124048956
+  img: /images/logos/github.png
+  description: 通常发背单词的动态
+
+
+
+
+
