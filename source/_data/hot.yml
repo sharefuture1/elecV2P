@@ -4,7 +4,7 @@
 ##快手
 
 - name: 视频解析
-  url: https://video.young1.cf
+  url: https://video.young1.ml
   img: /images/logos/github.png
   description: 全网视频，一网打尽
   
@@ -26,7 +26,7 @@
 
 
 - name: 音乐
-  url: https://music.young1.cf  
+  url: https://music.young1.ml  
   img: /images/logos/github.png
   description: 全网视频，一网打尽
 

@@ -2,14 +2,14 @@
 
 
 ##快手
-- name: 快手
+- name: 快手极速版抓包
   url: https://blog.csdn.net/qq_44633541/article/details/124065153
-  img: /images/logos/github.png
-  description: 快手ksjsb cookies提取
+  img: https://www.kuaishou.com/favicon.ico
+  description: 快手ksjsb cookies，领取每日低保
 - name: 快手抓包
   url: http://t.csdn.cn/XIOt3
-  img: /images/logos/github.png
-  description: 快手cookies提取
+  img: https://www.kuaishou.com/favicon.ico
+  description: 快手普通版cookies提取
 
 - name: 淘小说
   url: https://blog.csdn.net/qq_44633541/article/details/124048956
@@ -25,7 +25,7 @@
   img: /images/logos/github.png
   description: 通常发背单词的动态  
 - name: 快手极速版
-  url: https://blog.csdn.net/qq_44633541/article/details/124048956
+  url: https://www.kuaishou.com/favicon.ico
   img: /images/logos/github.png
   description: 通常发背单词的动态
 - name: 闪电世界

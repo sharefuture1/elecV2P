@@ -40,7 +40,7 @@ aboutPage:
   webmaster:
     head: 关于站长
     name: 一行
-    url: https://young1.cf
+    url: https://young1.ml
     img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
     description: 海纳百川，有容乃大。更多精彩内容，持续更新中，有好的学习项目也可以一起分享。
     html: "" -->
