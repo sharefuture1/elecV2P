@@ -1,0 +1,26 @@
+## blog热门文章推荐
+
+
+
+- name: 监控快速搭建
+  url: http://t.csdn.cn/c7Npq
+  img: https://g.csdnimg.cn/static/logo/favicon32.ico
+  description: github
+
+- name: 抓包工具合集
+  url: https://blog.csdn.net/qq_44633541/article/details/124048956
+  img: /images/logos/github.png
+  description: 抓包工具合集，抓包工具合集https://young1.lanzouf.com/b036vntoh 提取码：gyyh
+
+
+- name: 常用脚本合集
+  url: https://github.com/allScript1/ks
+  img: /images/logos/github.png
+  description: ql常用脚本合集pure，失效的可以加群
+
+- name: nginx配置
+  url: https://nginx.young1.ml/
+  img: https://nginx.young1.ml/favicon.ico
+  description: NGINX 配置配置高性能、安全、稳定的NGINX服务器的最简单方法。
+
+

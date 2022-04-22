@@ -9,7 +9,7 @@
 
 - name: 抓包工具合集
   url: https://blog.csdn.net/qq_44633541/article/details/124048956
-  img: /images/logos/github.png
+  img: https://g.csdnimg.cn/static/logo/favicon32.ico
   description: 抓包工具合集，抓包工具合集https://young1.lanzouf.com/b036vntoh 提取码：gyyh
 
 
@@ -32,7 +32,7 @@
 
 - name: 自学编程资料
   url: 
-  img: /images/logos/github.png
+  img: https://g.csdnimg.cn/static/logo/favicon32.ico
   description: 加微信备 selfstudy1 备注自学编程
 
 

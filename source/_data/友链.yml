@@ -1,7 +1,11 @@
+
+
 - name: 博客友链
-  url: https://young1.ml/link/
+  url: https://young1.ml/
   img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
-  description: 这里都是我博客类型的友链
+  description: 需要添加友链的可以私我
+
+
 - name: DAC导航
   url: https://nwuzmed.ga/
   img: https://nwuzmed.ga/images/avatar.png

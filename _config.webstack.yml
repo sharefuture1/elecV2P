@@ -66,22 +66,25 @@ menu:
         config: 其他
 
 
-## 暂时不使用娱乐相关
-  # - name: other
-  #   icon: far fa-star
-  #   submenu:
-  #     - name: 博客常用
-  #       icon: iconfont icon-blog
-  #       config: 博客常用
-  #     - name: 社交平台
-  #       icon: iconfont icon-social
-  #       config: 社交平台        
-  #     - name: 音乐
-  #       icon: iconfont icon-music
-  #       config: 音乐
-  #     - name: 友链
-  #       icon: iconfont icon-blogroll
-  #       config: 友链
+# 暂时不使用娱乐相关
+  - name: other
+    icon: far fa-star
+    submenu:
+      - name: 热门阅读
+        icon: iconfont icon-music
+        config: blogHot
+      - name: 博客常用
+        icon: iconfont icon-blog
+        config: 博客常用
+      - name: 社交平台
+        icon: iconfont icon-social
+        config: 社交平台        
+      # - name: 音乐
+      #   icon: iconfont icon-music
+      #   config: 音乐
+      - name: 友链
+        icon: iconfont icon-blogroll
+        config: 友链
 
 
 

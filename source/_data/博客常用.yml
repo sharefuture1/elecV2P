@@ -1,25 +1,10 @@
 ## 个人网站相关
 # unused
-- name: 一行的Blog 🔥
-  url: https://young1.ml/
+- name: 一行的个人Blog 🔥
+  url: https://blog.young1.ml/
   img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
   description: 我的个人博客，欢迎访问~
-- name: 本站搭建教程 🔥
-  url: https://young1.ml/posts/61c6c2e8/
-  img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
-  description: Hexo版WebStack导航网站搭建教程，欢迎留言~
-- name: 一行的文档
-  url: https://doc.young1.ml/
-  img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
-  description: 我的文档网站
-- name: 一行的八音盒
-  url: https://mb.young1.ml/
-  img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
-  description: 基于Vue框架使用网易云接口的音乐网站
-- name: 一行的画廊
-  url: https://gal.young1.ml/
-  img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
-  description: 3D相册网站
+
 - name: 阿里云
   url: https://account.aliyun.com/login/qr_login.html
   img: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
@@ -56,3 +41,30 @@
   url: https://dash.cloudflare.com/f2f657ef88142b794b30a3e5754d73e3
   img: https://dash.cloudflare.com/favicon.ico
   description: 帮助站点抵御大多数网络攻击，确保长期在线，提升性能、访问速度
+
+
+
+
+
+
+
+
+
+###
+
+# - name: 本站搭建教程 🔥
+#   url: https://young1.ml/posts/61c6c2e8/
+#   img: https://npm.elemecdn.com/hassan-assets/navi/logos/myblog.png
+#   description: Hexo版WebStack导航网站搭建教程，欢迎留言~
+# - name: 一行的文档
+#   url: https://doc.young1.ml/
+#   img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
+#   description: 我的文档网站
+# - name: 一行的八音盒
+#   url: https://mb.young1.ml/
+#   img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
+#   description: 基于Vue框架使用网易云接口的音乐网站
+# - name: 一行的画廊
+#   url: https://gal.young1.ml/
+#   img: https://npm.elemecdn.com/hassan-assets/img/favicon.png
+#   description: 3D相册网站

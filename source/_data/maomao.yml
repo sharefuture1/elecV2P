@@ -13,7 +13,7 @@
 
 - name: 淘小说
   url: https://blog.csdn.net/qq_44633541/article/details/124048956
-  img: /images/logos/github.png
+  img: https://g.csdnimg.cn/static/logo/favicon32.ico
   description: 淘小说
 - name: 青龙
   url: https://github.com/
@@ -22,11 +22,11 @@
 
 - name: 抖音极速版
   url: https://blog.csdn.net/qq_44633541/article/details/124048956
-  img: /images/logos/github.png
+  img: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/favicon.ico
   description: 通常发背单词的动态  
 - name: 快手极速版
   url: https://www.kuaishou.com/favicon.ico
-  img: /images/logos/github.png
+  img: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/public/favicon.ico
   description: 通常发背单词的动态
 - name: 闪电世界
   url: https://blog.csdn.net/qq_44633541/article/details/124060521
