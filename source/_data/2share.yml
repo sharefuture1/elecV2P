@@ -18,6 +18,10 @@
   img: /images/logos/github.png
   description: ql常用脚本合集pure，失效的可以加群
 
+- name: nginx配置
+  url: https://nginx.young1.ml/
+  img: https://nginx.young1.ml/favicon.ico
+  description: NGINX 配置配置高性能、安全、稳定的NGINX服务器的最简单方法。
 
 
 - name: 

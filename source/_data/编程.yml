@@ -1,7 +1,15 @@
-- name: 头歌 EduCoder
-  url: https://www.educoder.net/
-  img: https://www.educoder.net/favicon.ico
-  description: 信息技术类实践教学平台，涵盖了计算机、大数据、云计算、人工智能、软件工程、物联网等专业课程
+## 特别推荐
+
+- name: nginx配置
+  url: https://nginx.young1.ml/
+  img: https://nginx.young1.ml/favicon.ico
+  description: NGINX 配置配置高性能、安全、稳定的NGINX服务器的最简单方法。
+
+- name: AcWing
+  url: https://www.acwing.com/
+  img: https://cdn.acwing.com/static/web/img/favicon.ico
+  description: 一个专属于程序员的平台，为大家在漫漫的刷题之旅中，提供最优质的解答  
+
 - name: HDU OJ 杭电OJ
   url: http://acm.hdu.edu.cn/
   img: http://acm.hdu.edu.cn/favicon.ico

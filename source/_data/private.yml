@@ -21,3 +21,9 @@
   url: https://github.com/
   img: /images/logos/github.png
   description: 各种学习资料
+
+- name: nginx配置
+  url: https://nginx.young1.ml/
+  img: https://nginx.young1.ml/favicon.ico
+  description: NGINX 配置配置高性能、安全、稳定的NGINX服务器的最简单方法。
+

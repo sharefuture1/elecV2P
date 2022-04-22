@@ -14,10 +14,13 @@
   img: /images/logos/github.png
   description: 全网内容，一键搜索  //todo
 
-- name: 备用nav
-  url: https://nav-young1-top.vercel.app/
-  img: /images/logos/github.png
-  description: 备用地址nav
+
+- name: nginx配置
+  url: https://nginx.young1.ml/
+  img: https://nginx.young1.ml/favicon.ico
+  description: NGINX 配置配置高性能、安全、稳定的NGINX服务器的最简单方法。
+
+
 
 - name: 自用仓库
   url: https://github.com/allScript1/ks
@@ -34,3 +37,7 @@
 
 
 
+- name: 备用nav
+  url: https://nav-young1-top.vercel.app/
+  img: /images/logos/github.png
+  description: 备用地址nav
